@@ -1,14 +1,14 @@
 ---
 date: 2017-02-22T11:38:52+00:00
-title: "Biplane Bomber"
+title: "FLY HIGH"
 layout: splash
 permalink: /
 header:
   overlay_color: "#5e616c"
   overlay_image: /assets/images/bpb01.png
-  headline: ""
+  headline: "opapaa!"
   caption:
-excerpt: 'A mouthful of biplane fun time.'
+excerpt: 'On steam. Soon.'
 
 feature_row:
 intro:
@@ -19,6 +19,6 @@ intro:
 
 
 
-
+<iframe width="640" height="360" src="https://www.youtube-nocookie.com/embed/NwM8inGDK2Y?controls=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
 
 {% include feature_row id="intro" type="center" %}
